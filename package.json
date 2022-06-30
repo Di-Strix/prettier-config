@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@di-strix/prettier-config",
   "version": "1.0.0",
   "description": "An Andrew Ushakov's prettier config",
   "main": ".prettierrc",
