@@ -2,7 +2,7 @@
   "name": "@di-strix/prettier-config",
   "version": "1.0.0",
   "description": "An Andrew Ushakov's prettier config",
-  "main": ".prettierrc",
+  "main": ".prettierrc.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
