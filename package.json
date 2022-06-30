@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "An Andrew Ushakov's prettier config",
+  "main": ".prettierrc",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Di-Strix/prettier-config.git"
+  },
+  "author": "Andrew Ushakov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Di-Strix/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Di-Strix/prettier-config#readme",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^3.2.0",
+    "prettier": "^2.7.1"
+  }
+}
