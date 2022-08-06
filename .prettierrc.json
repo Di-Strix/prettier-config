@@ -11,11 +11,7 @@
   "endOfLine": "lf",
   "singleAttributePerLine": true,
   "importOrder": ["^@(.*)$", "^\\w(.*)$", "^../(.*)$", "^./(.*)$"],
-  "importOrderParserPlugins": [
-    "classProperties",
-    "typescript",
-    "[\"decorators\", { \"decoratorsBeforeExport\": true }]"
-  ],
+  "importOrderParserPlugins": ["classProperties", "typescript", "decorators-legacy"],
   "importOrderSeparation": true,
   "importOrderSortSpecifiers": true
 }
